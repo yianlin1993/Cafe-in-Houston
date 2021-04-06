@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Applied Data Sciences Cpastone Project (Coursera)
+Applied Data Sciences Cpastone Project
