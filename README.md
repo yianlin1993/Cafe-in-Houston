@@ -1,2 +1,1 @@
-Spatial Data Analysis
-Applied Data Sciences Cpastone Project
+Spatial Data Analysis for Applied Data Sciences Cpastone Project
